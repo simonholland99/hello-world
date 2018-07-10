@@ -1,2 +1,3 @@
 # hello-world
 my first attempt
+This is my very first attempt at doing anything like this so be nice to me...
